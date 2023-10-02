@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Samuel Nunes
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estudando ReactJS e TypeScript
+- 🌱 Estudando ReactJS, Angular e TypeScript
 
 <div>
   <a href="https://github.com/samlnunes">
